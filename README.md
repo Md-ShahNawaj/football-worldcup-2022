@@ -1,4 +1,4 @@
-# ⚽ Football World Cup 2022 (**Award Winning Project**)
+# Football World Cup 2022 (**Award Winning Project**)
 
 This project is an **Information System Analysis and Design** implementation built as part of the *CSE347* course at East West University. The system is designed to manage and display essential data for the FIFA World Cup Qatar 2022. It includes both public-facing features and an admin dashboard to control teams, players, standings, and match information.
 
